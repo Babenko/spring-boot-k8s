@@ -1,4 +1,4 @@
-package com.demo.k8s.k8sdemo;
+package com.demo.k8s;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
